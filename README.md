@@ -1,4 +1,4 @@
-![logo](https://github.com/ab1123/ab1123/blob/main/github-header-image.png)
+![logo](https://github.com/ab1123/ab1123/blob/main/github-header-image%20(1).png)
 
 ### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Harsheet+Sharma+👋)](https://git.io/typing-svg)</h1>
 <h3 align="center">A Passionate Full Stack Developer in India</h3>
