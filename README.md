@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsheet Sharma</h1>
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Vinay+Chandola+👋)](https://git.io/typing-svg)</h1>
 <h3 align="center">A Passionate Full Stack Developer in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab1123&label=Profile%20views&color=0e75b6&style=flat" alt="ab1123" /> </p>
