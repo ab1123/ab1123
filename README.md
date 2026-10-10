@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab1123&label=Profile%20views&color=0e75b6&style=flat" alt="ab1123" /> </p>
 
-- 🔭 I’m currently working on **Private Project**
+- 🔭 I’m currently working at **Oracle**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **SaaS**
 
-- 💬 Ask me about **Django, Javascript and Flutter**
+- 💬 Ask me about **Javascript,Java and their Frameworks**
 
 - 📫 How to reach me **asarma626@gmail.com**
 
